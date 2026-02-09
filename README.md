@@ -43,6 +43,7 @@ PDF → Text Splitter → Embeddings → ChromaDB
                                     ↑
                                    Query → Embedding → Similarity Search → Context → Grok LLM
 ---
+```
 ## My own summary of the project :
  Overall i have used my work form KrishNaik Notebook , which made the work so fast and my learning of the basic so easy .....
 This RAG which made on GROK api gives a good response ...which reduce the Halucunation ..
