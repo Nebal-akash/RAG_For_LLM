@@ -24,7 +24,6 @@ The goal is to improve LLM responses by grounding them in **document-based conte
    - Pass the prompt to **Grok API (LLM)** to generate a factually grounded response.
 
 ---
-
 ## 🧩 Tech Stack
 
 | Component | Technology |
@@ -43,3 +42,12 @@ The goal is to improve LLM responses by grounding them in **document-based conte
 PDF → Text Splitter → Embeddings → ChromaDB
                                     ↑
                                    Query → Embedding → Similarity Search → Context → Grok LLM
+---
+## My own summary of the project :
+ Overall i have used my work form KrishNaik Notebook , which made the work so fast and my learning of the basic so easy .....
+This RAG which made on GROK api gives a good response ...which reduce the Halucunation ..
+There is 2 main steps involved :
+      1.injection
+      2.retrival
+These main steps are main core principal of a RAG 
+
