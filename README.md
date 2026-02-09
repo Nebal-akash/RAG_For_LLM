@@ -50,5 +50,10 @@ This RAG which made on GROK api gives a good response ...which reduce the Halucu
 There is 2 main steps involved :
       1.injection
       2.retrival
-These main steps are main core principal of a RAG 
+What are main topic this project covered are 
+1.emmbedding and vectorstore
+2.Retriver pipeline from VectorStore
+3.RAG Pipeline- VectorDB To LLM Output Generation
+4.Integration Vectordb Context pipeline With LLM output
+
 
