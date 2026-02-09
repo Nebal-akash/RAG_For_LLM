@@ -47,13 +47,13 @@ PDF → Text Splitter → Embeddings → ChromaDB
 ## My own summary of the project :
  HI, I am Akash just making own understanding the RAG what i created , which made the work so fast and my learning of the basic so easy .....
 This RAG which made on GROK api gives a good response ...which reduce the Halucunation ..
-There is 2 main steps involved :
-      1.injection
-      2.retrival
-What are main topic this project covered are 
-1.emmbedding and vectorstore
-2.Retriver pipeline from VectorStore
-3.RAG Pipeline- VectorDB To LLM Output Generation
-4.Integration Vectordb Context pipeline With LLM output
+--There is 2 main steps involved :
+      --1.injection
+      --2.retrival
+--What are main topic this project covered are 
+--1.emmbedding and vectorstore
+--2.Retriver pipeline from VectorStore
+--3.RAG Pipeline- VectorDB To LLM Output Generation
+--4.Integration Vectordb Context pipeline With LLM output
 
 
