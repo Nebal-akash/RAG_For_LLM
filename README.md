@@ -45,7 +45,7 @@ PDF → Text Splitter → Embeddings → ChromaDB
 ---
 ```
 ## My own summary of the project :
- Overall i have used my work form KrishNaik Notebook , which made the work so fast and my learning of the basic so easy .....
+ HI, I am Akash just making own understanding the RAG what i created , which made the work so fast and my learning of the basic so easy .....
 This RAG which made on GROK api gives a good response ...which reduce the Halucunation ..
 There is 2 main steps involved :
       1.injection
